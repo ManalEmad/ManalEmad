@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manal Emad++</h1>
+<h1 align="center">Hi 👋, I'm Manal Emad</h1>
 <h3 align="center">Dedicated Cybersecurity Engineer driven by a passion for SOC, Incident Response, Threat Detection, and Threat Hunting. Committed to excellence in Blue/Purple team dynamics. Currently advancing expertise in automation & SOAR, streamlining repetitive tasks. A perpetual learner, always staying current to excel in the field. Bringing over a year’s experience as L2 SOC Analyst and Incident Responder in a Security Operations Center, adept at skillfully resolving intricate security challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manalemad&label=Profile%20views&color=0e75b6&style=flat" alt="manalemad" /> </p>
